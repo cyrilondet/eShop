@@ -14,6 +14,11 @@ const dataBike = [
 	{ name: "CEWO", url: "/images/bike-4.jpg", price: 1300, mea: false },
 	{ name: "AMIG39", url: "/images/bike-5.jpg", price: 479, mea: false },
 	{ name: "LIKO99", url: "/images/bike-6.jpg", price: 869, mea: false },
+	{name: "Tank Leopard 2", url: "/images/leopard-2.jpeg", price: 53000, mea: false},
+	{name: "Canon Caesar", url: "/images/canon-caesar.jpeg", price: 50000, mea: false},
+	{name: "Nounours", url: "/images/nounoursILoveYou.jpg", price: 10, mea: false},
+	{name: "Sucettes", url: "/images/sucettes-rainbow.jpeg", price: 2.5, mea: false},
+	{name: "Starship", url: "/images/starship.png", price: 100000, mea: false},
 ];
 
 // Fonction calcul frais de port et total commande
